@@ -4,7 +4,8 @@
 
 You are welcome to join me on my coding journey 💻📚😊
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=w00lsheep)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=w00lsheep)](https://github.com/anuraghazra/github-readme-stats)
 
 <!---
 w00lsheep/w00lsheep is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
