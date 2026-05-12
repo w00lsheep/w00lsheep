@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @w00lsheep, a 16 year old highschool student from germany
+- 👋 Hi, I’m @w00lsheep, an 18 year old highschool student from germany
 - 👀 I’m interested in tech stuff and science
 - 🌱 I’m currently trying to improve my coding skills in Python and C++ with small projects
 
